@@ -1,6 +1,4 @@
 <pre>
-🔭  Software engineer & team lead
-
 💻  TypeScript (fullstack webdev)
 
 🤖  Test automation enthusiast
