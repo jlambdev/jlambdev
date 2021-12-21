@@ -7,7 +7,7 @@
 
 🌱  Learning about data & metrics
 
-🍳  Cooking (see jlambdev.github.io)
+🍳  Cooking (jlambdev.github.io)
 
 🥁  Drums :)
 </pre>
