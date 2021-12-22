@@ -1,5 +1,5 @@
 <pre>
-💻  TypeScript (fullstack webdev)
+💻  TypeScript (fullstack webdev). A bit of prior b/e experience in Java & Python.
 
 🤖  Test automation enthusiast
 
