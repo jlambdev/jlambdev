@@ -1,15 +1,5 @@
 <pre>
-💻  TypeScript (fullstack webdev). A bit of prior b/e experience in Java & Python.
-
-🤖  Test automation enthusiast
-
-✅  Using Todoist for many years (50k+ karma)
-
-🌱  Learning about data & metrics
-
-🍳  Cooking (jlambdev.github.io)
-
-🥁  Drums :)
+💻  TypeScript (fullstack webdev). Prior backend experience in Java & Python.
 </pre>
 
 <!--
