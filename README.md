@@ -1,5 +1,5 @@
 <pre>
-💻  TypeScript (fullstack webdev). Prior backend experience in Java & Python.
+💻  TypeScript. Prior backend experience in Java & Python.
 </pre>
 
 <!--
